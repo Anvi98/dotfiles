@@ -5,6 +5,7 @@ tap "homebrew/services"
 tap "mongodb/brew"
 # Monitor a directory for changes and run a shell command
 brew "fswatch"
+brew "zsh"
 # Distributed revision control system
 brew "git"
 # Extensions to follow Vincent Driessen's branching model
