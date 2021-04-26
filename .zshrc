@@ -7,7 +7,6 @@ export PATH
 alias python=python3
 alias pip=pip3
 
-
 # >>> conda initialize >>>
 # !! Contents within this block are managed by 'conda init' !!
 #__conda_setup="$('/Users/anvi/opt/anaconda3/bin/conda' 'shell.zsh' 'hook' 2> /dev/null)"
